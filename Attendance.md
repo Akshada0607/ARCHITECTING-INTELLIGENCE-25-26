@@ -28,7 +28,7 @@
 | Ranjan ojha           | 1  | 1  |    |    |    |    |    |    |    |     |
 | Ritvija Katare        | 1  | 1  |    |    |    |    |    |    |    |     |
 | Rudra Sharma          | 1  | 1  |    |    |    |    |    |    |    |     |
-| Rounak Mandal         |    | 1  |    |    |    |    |    |    |    |     |
+| Rounak Mandal         | 1  | 1  |    |    |    |    |    |    |    |     |
 | Saloni kumari         | 1  | 1  |    |    |    |    |    |    |    |     |
 | Shambhavi Singh       |    | 1  |    |    |    |    |    |    |    |     |
 | Venkata Sai Koppala   | 1  | 1  |    |    |    |    |    |    |    |     |
